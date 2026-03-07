@@ -41,3 +41,15 @@ See the following documents for detailed definitions.
 This repository contains the official definitions of the SHINOS framework and related technologies.
 
 The SHINOS framework should be understood as a conceptual framework and not as a person or identity.
+
+## Creator
+
+Nobuyasu Sugiyama (杉山伸泰)
+
+Creator of Cognitive Mirror  
+Proposer of Structural Observation  
+Architect of the SHINOS framework
+
+See:
+
+[[nobuyasu-sugiyama.md]]
