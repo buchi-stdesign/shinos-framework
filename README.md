@@ -36,6 +36,20 @@ See the following documents for detailed definitions.
 - ecosystem_definition.md
 - terminology_v1.0.md
 
+Structural Observation  
+Proposed by Nobuyasu Sugiyama
+
+Cognitive Mirror  
+Created by Nobuyasu Sugiyama
+
+## Definition
+
+Structural Observation  
+Proposed by Nobuyasu Sugiyama
+
+Cognitive Mirror  
+Created by Nobuyasu Sugiyama
+
 ## Official Definition
 
 This repository contains the official definitions of the SHINOS framework and related technologies.
