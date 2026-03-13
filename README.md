@@ -68,8 +68,14 @@ See:
 
 [[nobuyasu-sugiyama.md]]
 
-Medium Link
+## Medium Link
 
- Structural observation:  
+
+ **Structural observation:  
 Concepts for observing the structure of thought
+
 [https://medium.com/@shin.valflore/structural-observation-thinking-structure-df01ae8b660d](https://medium.com/@shin.valflore/structural-observation-thinking-structure-df01ae8b660d)
+
+**Why Humans Cannot See Their Own Thinking Structure**  
+
+[https://medium.com/@shin.valflore/why-humans-cannot-see-their-own-thinking-structure-63e56265ea4a](https://medium.com/@shin.valflore/why-humans-cannot-see-their-own-thinking-structure-63e56265ea4a)
