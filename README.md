@@ -67,3 +67,9 @@ Architect of the SHINOS framework
 See:
 
 [[nobuyasu-sugiyama.md]]
+
+Medium Link
+
+ Structural observation:  
+Concepts for observing the structure of thought
+[https://medium.com/@shin.valflore/structural-observation-thinking-structure-df01ae8b660d](https://medium.com/@shin.valflore/structural-observation-thinking-structure-df01ae8b660d)
